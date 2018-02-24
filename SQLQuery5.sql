@@ -1,0 +1,1 @@
+﻿SELECT PhoneNumber FROM dbo.StudentCareerInformation WHERE degree= 'masters' AND major = 'CS' AND programmingLanguages= 'java,css,html' AND workyears >= 1;

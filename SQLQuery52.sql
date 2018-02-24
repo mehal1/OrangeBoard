@@ -1,0 +1,1 @@
+﻿SELECT PhoneNumber FROM dbo.Student as s, dbo.StudentCareerInform as sc WHERE degree= 'masters' AND major = 'CE' AND programmingLanguages= 'asp.net java' AND workex >= 1 AND s.StudentId=sc.studId ;

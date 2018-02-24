@@ -1,0 +1,1 @@
+﻿Select * FROM dbo.AlumniRecord where AlumniName='Sheldon Cooper';

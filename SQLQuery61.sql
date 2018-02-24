@@ -1,0 +1,1 @@
+﻿SELECT EmailId from dbo.Student as s, dbo.CourseEnrollment as ce where CourseId= 'CSE612' AND s.Studentid=ce.StudentId ;

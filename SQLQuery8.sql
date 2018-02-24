@@ -1,0 +1,1 @@
+﻿INSERT INTO dbo.Assignment(CourseId, Assignment) VALUES('287773263', 'abc.aspx'); 

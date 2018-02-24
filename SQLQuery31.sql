@@ -1,0 +1,1 @@
+﻿select CourseTitle, LocationofCourse, Timing, DaysOfWeek from dbo.Course as c, dbo.CourseEnrollment as ce where  StudentId='387773263' AND c.CourseId=ce.CourseId;
